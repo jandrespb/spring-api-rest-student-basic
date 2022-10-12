@@ -1,0 +1,7 @@
+com/example/springdemo/rest/StudentNotFoundException.class
+com/example/springdemo/config/MySpringMvcDispatcherServletInitializer.class
+com/example/springdemo/config/DemoAppConfig.class
+com/example/springdemo/entity/Student.class
+com/example/springdemo/rest/StudentErrorResponse.class
+com/example/springdemo/rest/DemoRestController.class
+com/example/springdemo/rest/StudentRestController.class
